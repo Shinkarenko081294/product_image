@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 841.89 595.28">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        opacity: .5;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill: none;
+      }
+
+      .cls-5, .cls-7 {
+        stroke: #749c8b;
+      }
+
+      .cls-5, .cls-7, .cls-8 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-8 {
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-6, .cls-8 {
+        stroke: #fff;
+      }
+
+      .cls-7 {
+        stroke-width: 4px;
+      }
+
+      .cls-9, .cls-2, .cls-3, .cls-10, .cls-11 {
+        font-size: 8px;
+      }
+
+      .cls-9, .cls-12, .cls-11 {
+        fill: #749c8b;
+      }
+
+      .cls-9, .cls-3, .cls-10 {
+        font-family: CenturyGothic, 'Century Gothic';
+      }
+
+      .cls-2 {
+        font-family: CenturyGothic-Bold, 'Century Gothic';
+      }
+
+      .cls-2, .cls-11 {
+        font-weight: 700;
+      }
+
+      .cls-11 {
+        font-family: CenturyGothic-BoldItalic, 'Century Gothic';
+        font-style: italic;
+      }
+    </style>
+  </defs>
+  <rect class="cls-12" x="322.37" y="153.16" width="208" height="21.96"/>
+  <rect class="cls-12" x="322.37" y="208.64" width="208" height="30.35"/>
+  <rect class="cls-12" x="24.69" y="22.86" width="789.7" height="51.32" rx="25.66" ry="25.66"/>
+  <g class="cls-4">
+    <path class="cls-12" d="M728.65,422.17c-1.46,2.05-2.27,3.13-3.02,4.26-4.51,6.76-3.01,15.49,3.29,19.18,6.17,3.62,15.42,0,18.71-7.33,5.11-11.36,1.81-23.79-8.3-31.73-9.81-7.71-21.17-11.58-33.38-12.14-27.13-1.24-51.32,4.95-67.72,29.07-14.03,20.63-14.44,42.71-6.99,65.58,8.83,27.1,25.06,49.87,42.82,71.61,16.22,19.85,34.44,37.87,52.79,55.75,2.7,2.63,4.58,3.76,8.31,.93,17.1-12.95,34.45-13.38,52.77-2,11.1,6.9,20.15,15.66,26.14,27.44,4.62,9.07,3.89,16.33-2.92,23.88-1.61,1.78-2.78,3.63-3.55,5.95-1.14,3.44-3.79,4.92-7.45,4.08-3.36-.78-5.03-3-4.87-6.41,.18-3.78,2.57-5.52,6.09-6.05,6.42-.97,11.01-6.74,9.54-12.78-4.81-19.75-33.47-41.49-55.59-33.51-28,10.09-35.12,41.03-13.98,62.01,6.43,6.38,13.57,11.28,22.27,13.94,3.55,1.08,6.99,1.07,10.45-.03,2.36-.75,4.16-1.9,3.98-5-.26-4.34,2.23-6.68,6.44-6.74,3.35-.05,5.58,1.86,6.08,5.26,.58,3.94-1.29,6.4-5.05,7.5-.75,.22-1.69,.17-2.26,.61-12.9,10.03-24.78,3.99-36.07-2.89-10.04-6.11-18.07-14.57-23.76-25.04-7.4-13.63-6.59-26.98,2.13-39.57,2.81-4.06,2.7-5.57-1.63-8.36-38.19-24.59-72.94-53.1-99.72-90.28-12.56-17.44-22.28-36.34-25.62-57.85-5.17-33.25,7.37-59.67,33.23-79.77,24.45-19.01,52.27-25.92,82.93-18.95,29.22,6.64,50.23,33.78,47.75,61.98-1.01,11.48-5.97,20.73-17.23,25.53-10.77,4.59-22.74-.69-27.46-12.18-4.42-10.74-.4-21.48,10.89-25.96Z"/>
+    <path class="cls-12" d="M638.83,339.4c-1.24-15.3,9.65-28.33,24.82-29.67,15-1.32,28.25,9.92,29.53,25.05,1.29,15.21-9.76,28.37-24.87,29.61-15.23,1.24-28.25-9.8-29.48-24.99Z"/>
+    <path class="cls-12" d="M848.98,361.94c-10.35,.84-18.73-6.32-19.61-16.77-.86-10.16,6.6-18.88,16.8-19.64,9.77-.73,18.69,6.84,19.49,16.55,.85,10.23-6.55,19.04-16.68,19.86Z"/>
+    <path class="cls-12" d="M905.22,405.55c-8.83-19.11-23.15-31.59-44.18-34.03-31.27-3.62-58.92,6.44-83.61,25.32-1.58,1.21-4.25,3.26-2.97,5.17,1.8,2.69,4.23-.16,6.06-1.06,15.48-7.65,31.58-13.19,50.66-15.15,1.93-.07,5.67-.41,9.4-.3,24.74,.73,41.43,12.3,48.61,33.99,3.45,10.41,3.69,21.25,3.19,32.13,0,0-.09,.85-.09,.85-4.7,39.19-37.41,81.1-41.7,86.49-6.66,7.46-13.58,14.7-20.09,22.3-3.25,3.79-5.58,5.16-10.66,2.29-7.92-4.48-16.99-1.56-22.48,5.86-4.75,6.43-4.15,16.4,1.35,22.42,5.83,6.38,15.34,7.8,22.66,3.37,7.41-4.48,10.93-13.38,7.59-21.49-1.71-4.14-.51-5.84,2.69-8.04,11.87-8.19,22.87-17.45,32.85-28.12l.17-.02s0,0,0,0c.02-.02,5.48-5.39,12.4-13.39,13.19-15.25,24.5-32.37,31.17-51.4,5.39-15.36,5.4-22.98,5.39-23.05,0,0-.02,0-.03,0,1.96-16.06-1.19-28.55-8.4-44.14Zm-91.79,186c-6.29,.77-12.43-4.4-12.96-10.89-.51-6.37,4.1-12.1,10.36-12.88,6.3-.78,12.28,4.24,12.98,10.9,.64,6.11-4.2,12.11-10.38,12.86Z"/>
+  </g>
+  <text class="cls-2" transform="translate(42.14 50.28)"><tspan x="0" y="0">Название инфекции</tspan></text>
+  <text class="cls-2" transform="translate(158.91 38.6)"><tspan x="0" y="0">Рекомендуемый и максимально </tspan><tspan x="-6.39" y="9.6">допустимый возраст вакцинации с </tspan><tspan x="-5.05" y="19.2">указанием возможных интервалов</tspan></text>
+  <text class="cls-2" transform="translate(338.52 50.28)"><tspan x="0" y="0">Название вакцин</tspan></text>
+  <text class="cls-2" transform="translate(436.32 50.28)"><tspan x="0" y="0">Возраст проведения</tspan></text>
+  <text class="cls-2" transform="translate(542.96 47.28)"><tspan x="0" y="0">Совместимость с другими </tspan><tspan x="32.35" y="9.6">вакцинами</tspan></text>
+  <text class="cls-2" transform="translate(710.27 50.28)"><tspan x="0" y="0">Примечание</tspan></text>
+  <line class="cls-8" x1="132.37" y1="12.39" x2="132.37" y2="81.84"/>
+  <line class="cls-8" x1="322.37" y1="12.39" x2="322.37" y2="81.84"/>
+  <line class="cls-8" x1="426.37" y1="12.39" x2="426.37" y2="81.84"/>
+  <line class="cls-8" x1="530.37" y1="12.39" x2="530.37" y2="81.84"/>
+  <line class="cls-8" x1="664.37" y1="12.39" x2="664.37" y2="81.84"/>
+  <rect class="cls-7" x="24.69" y="81.2" width="789.7" height="469.53" rx="28.72" ry="28.72"/>
+  <line class="cls-5" x1="132.37" y1="81.2" x2="132.37" y2="550.74"/>
+  <line class="cls-5" x1="322.37" y1="81.2" x2="322.37" y2="550.74"/>
+  <line class="cls-5" x1="426.37" y1="81.2" x2="426.37" y2="550.74"/>
+  <line class="cls-5" x1="530.37" y1="81.2" x2="530.37" y2="550.74"/>
+  <line class="cls-5" x1="660.37" y1="80.2" x2="660.37" y2="549.74"/>
+  <text class="cls-9" transform="translate(153.95 118.07)"><tspan x="0" y="0">С 1 года жизни, двухкратно. Возраст </tspan><tspan x="7.69" y="9.6">введения вакцины не ограничен.</tspan></text>
+  <text class="cls-9" transform="translate(151.51 173.43)"><tspan x="0" y="0">С 6 месяцев жизни, возраст введения </tspan><tspan x="-11.29" y="9.6">вакцины не ограничен. Схемы вакцинации </tspan><tspan x="-5.38" y="19.2">зависят от вакцины и возраста ребенка.</tspan></text>
+  <text class="cls-9" transform="translate(345.17 122.42)"><tspan x="0" y="0">Прио2511рикс</tspan></text>
+  <text class="cls-10" transform="translate(327.25 166.92)"><tspan class="cls-1"><tspan x="0" y="0">Ваксигрипп Тетра</tspan></tspan><tspan class="cls-12"><tspan x="0" y="19.2">Инфлювак</tspan></tspan><tspan class="cls-12"><tspan x="0" y="28.8">Гриппол Плюс</tspan></tspan></text>
+  <text class="cls-9" transform="translate(456.32 122.05)"><tspan x="0" y="0">1 год, 6 лет.</tspan></text>
+  <text class="cls-3" transform="translate(431.56 161.39)"><tspan x="0" y="0">с 6мес, 7мес затем </tspan><tspan x="21.16" y="9.6">ежегодно</tspan></text>
+  <text class="cls-3" transform="translate(452.58 215.98)"><tspan x="0" y="0">2,3,4 месяца, </tspan><tspan x="-8.32" y="9.6">ревакцинация на </tspan><tspan x="-5.71" y="19.2">2-ом году жизни </tspan></text>
+  <text class="cls-9" transform="translate(673.58 107.37)"><tspan x="0" y="0">Вакцина живая, совместима с </tspan><tspan x="-3.27" y="9.6">другими не живыми вакцинами. </tspan><tspan x="-6.27" y="19.2">Также совместима с вакциной от </tspan><tspan x="-5.58" y="28.8">ветряной оспы, в случае введения </tspan><tspan x="32.33" y="38.4">их в один день.</tspan></text>
+  <line class="cls-5" x1="24.69" y1="152.52" x2="814.4" y2="152.52"/>
+  <text class="cls-9" transform="translate(547.79 177.05)"><tspan x="0" y="0">Совместима с другими </tspan><tspan x="24.77" y="9.6">вакцинами.</tspan></text>
+  <text class="cls-9" transform="translate(683.25 169.37)"><tspan x="0" y="0">Может применяться любая </tspan><tspan x="6.2" y="9.6">вакцина с актуальными </tspan><tspan x="11.83" y="19.2">штаммами вирусов.</tspan></text>
+  <text class="cls-9" transform="translate(665.87 228.59)"><tspan x="0" y="0">До 2х лет схемы 2+1, 3+1, после 2-х </tspan><tspan x="35.23" y="9.6">лет – однократно.</tspan></text>
+  <line class="cls-5" x1="24.69" y1="208.52" x2="814.4" y2="208.52"/>
+  <line class="cls-5" x1="23.2" y1="261.26" x2="812.91" y2="261.26"/>
+  <text class="cls-11" transform="translate(43.8 231.22)"><tspan x="0" y="0">Пневмококковая </tspan><tspan x="13.8" y="9.6">инфекция</tspan></text>
+  <text class="cls-9" transform="translate(154.96 224.43)"><tspan x="0" y="0">С 6 недель жизни, возраст введения </tspan><tspan x="-8.44" y="9.6">вакцины не ограничен. Схема введения </tspan><tspan x="-8.55" y="19.2">вакцины зависит от возраста и вакцины.</tspan></text>
+  <text class="cls-3" transform="translate(327.27 223.01)"><tspan x="0" y="0">Превенар 13</tspan></text>
+  <text class="cls-9" transform="translate(327.52 251.05)"><tspan x="0" y="0">Синфлорикс</tspan></text>
+  <text class="cls-11" transform="translate(42.01 286.22)"><tspan x="0" y="0">Вирус папилломы </tspan><tspan x="17.19" y="9.6">человека</tspan></text>
+  <text class="cls-9" transform="translate(151.95 279.43)"><tspan x="0" y="0">С 9 лет, возраст введения вакцины не </tspan><tspan x=".67" y="9.6">ограничен. Схема введения вакцины </tspan><tspan x="12.33" y="19.2">зависит от возраста и вакцины.</tspan></text>
+  <text class="cls-9" transform="translate(683.45 273.59)"><tspan x="0" y="0">Есть варианты 2-х дозовой </tspan><tspan x=".47" y="9.6">вакцинации и 3-х дозовой </tspan><tspan x="26.92" y="19.2">вакцинации.</tspan></text>
+  <rect class="cls-12" x="322.46" y="363.26" width="208" height="18.75"/>
+  <text class="cls-3" transform="translate(452.25 377.99)"><tspan x="0" y="0">15 мес, 6 лет.</tspan></text>
+  <rect class="cls-12" x="322.46" y="510.87" width="208" height="9.74"/>
+  <text class="cls-3" transform="translate(444.78 518.6)"><tspan x="0" y="0">12 мес, 18 мес</tspan></text>
+  <line class="cls-5" x1="23.2" y1="308.26" x2="812.91" y2="308.26"/>
+  <text class="cls-11" transform="translate(34.37 386.22)"><tspan x="0" y="0">Вирус ветряной оспы</tspan></text>
+  <text class="cls-9" transform="translate(143.19 374.43)"><tspan x="0" y="0">С 12 месяцев, максимальный возраст не </tspan><tspan x="1.87" y="9.6">ограничен. Двухкратно, интервал между </tspan><tspan x="4.54" y="19.2">дозами зависит от возраста и вакцины.</tspan></text>
+  <text class="cls-3" transform="translate(327.27 377.01)"><tspan x="0" y="0">Варилрикс</tspan></text>
+  <text class="cls-11" transform="translate(45.7 120.22)"><tspan x="0" y="0">Корь, краснуха, </tspan><tspan x="15.8" y="9.6">паротит</tspan></text>
+  <text class="cls-11" transform="translate(38.59 178.22)"><tspan x="0" y="0">Вакцинация против </tspan><tspan x="25.51" y="9.6">Гриппа</tspan></text>
+  <rect class="cls-12" x="322.37" y="261.74" width="208" height="14.81"/>
+  <text class="cls-3" transform="translate(444.79 272.01)"><tspan x="0" y="0">9 лет, 9 лет 6 мес</tspan></text>
+  <text class="cls-3" transform="translate(327.27 272.01)"><tspan x="0" y="0">Гардасил</tspan></text>
+  <text class="cls-9" transform="translate(327.52 293.05)"><tspan x="0" y="0">Церварикс</tspan></text>
+  <text class="cls-9" transform="translate(547.79 283.05)"><tspan x="0" y="0">Совместима с другими </tspan><tspan x="24.77" y="9.6">вакцинами.</tspan></text>
+  <text class="cls-11" transform="translate(41.96 325.22)"><tspan x="0" y="0">Менингококковая </tspan><tspan x="14.52" y="9.6">инфекция:</tspan></text>
+  <text class="cls-9" transform="translate(151.4 318.43)"><tspan x="0" y="0">С 6 недель жизни и без ограничения - </tspan><tspan x="51.03" y="9.6">Нименрикс,</tspan><tspan x="16.82" y="19.2">с 9 мес до 55 лет - Менактра</tspan><tspan x="-6.27" y="28.8">Схемы вакцинации зависят от вакцины и </tspan><tspan x="37.19" y="38.4">возраста ребенка.</tspan></text>
+  <text class="cls-9" transform="translate(668.96 318.59)"><tspan x="0" y="0">Вакцины Нименрикс и Менактра </tspan><tspan x="1.73" y="9.6">защищают от серогрупп ACWY.</tspan><tspan x="-4.48" y="19.2">Вакцина Труменба от серогрупп В. </tspan><tspan x="-3.36" y="28.8">Ей можно вакцинироваться 2 или 3</tspan><tspan x="48.72" y="38.4">х кратно. </tspan></text>
+  <rect class="cls-12" x="322.37" y="308.31" width="208" height="21.57"/>
+  <text class="cls-3" transform="translate(452.11 317.01)"><tspan x="0" y="0">2 мес, 3 мес, </tspan><tspan x="13.13" y="9.6">12 мес</tspan></text>
+  <text class="cls-3" transform="translate(327.27 319.01)"><tspan x="0" y="0">Нименрикс</tspan></text>
+  <text class="cls-9" transform="translate(327.52 338.05)"><tspan x="0" y="0">Менактра</tspan></text>
+  <text class="cls-9" transform="translate(327.52 391.08)"><tspan x="0" y="0">Менактра</tspan></text>
+  <text class="cls-9" transform="translate(327.25 476.48)"><tspan x="0" y="0">Тиковак Джуниор</tspan><tspan x="0" y="9.6">(с 1года до 16 лет)</tspan><tspan x="0" y="19.2">Тиковак (с 16 лет)</tspan></text>
+  <text class="cls-9" transform="translate(547.79 330.05)"><tspan x="0" y="0">Совместима с другими </tspan><tspan x="24.77" y="9.6">вакцинами.</tspan></text>
+  <rect class="cls-12" x="322.37" y="341.74" width="208" height="21.52"/>
+  <text class="cls-3" transform="translate(438.36 353.01)"><tspan x="0" y="0">10 лет, 10 лет 6 мес</tspan></text>
+  <text class="cls-3" transform="translate(327.27 353.01)"><tspan x="0" y="0">Гардасил</tspan></text>
+  <line class="cls-5" x1="23.2" y1="363.26" x2="812.91" y2="363.26"/>
+  <line class="cls-5" x1="23.2" y1="401.26" x2="812.91" y2="401.26"/>
+  <text class="cls-11" transform="translate(33.14 419.22)"><tspan x="0" y="0">Клещевой энцефалит</tspan></text>
+  <text class="cls-9" transform="translate(152.96 418.43)"><tspan x="0" y="0">С 12 месяцев жизни, максимальный </tspan><tspan x="28.79" y="9.6">возраст не ограничен.</tspan></text>
+  <rect class="cls-12" x="322.46" y="402.26" width="491.94" height="65.32"/>
+  <text class="cls-3" transform="translate(457.82 412.99)"><tspan x="0" y="0">Смотреть </tspan><tspan x="-6.06" y="9.6">примечание</tspan></text>
+  <text class="cls-3" transform="translate(548.24 414.57)"><tspan x="0" y="0">Совместима с другими </tspan><tspan x="24.77" y="9.6">вакцинами.</tspan></text>
+  <text class="cls-3" transform="translate(327.27 415.01)"><tspan x="0" y="0">Варилрикс</tspan></text>
+  <text class="cls-9" transform="translate(547.79 379.05)"><tspan x="0" y="0">Совместима с другими </tspan><tspan x="24.77" y="9.6">вакцинами.</tspan></text>
+  <text class="cls-3" transform="translate(677.67 413.57)"><tspan x="0" y="0">2 половинные дозы (0,25 мл) с </tspan><tspan x="-3.29" y="9.6">интервалом 1-7 месяцев после </tspan><tspan x="2.21" y="19.2">первой вакцинации. 3-я доза </tspan><tspan x="6.54" y="28.8">вводится через 12 месяцев </tspan><tspan x="31.99" y="38.4">после второй. </tspan><tspan x="-1.07" y="48">Далее – 1 доза каждые 3 года.</tspan></text>
+  <line class="cls-5" x1="23.2" y1="502.26" x2="812.91" y2="502.26"/>
+  <text class="cls-11" transform="translate(37.27 523.22)"><tspan x="0" y="0">Вирусный гепатит А</tspan></text>
+  <text class="cls-9" transform="translate(143.39 519.43)"><tspan x="0" y="0">С 12 месяцев жизни, двухкратно. Возраст </tspan><tspan x="55.23" y="9.6">не ограничен.</tspan></text>
+  <text class="cls-10" transform="translate(327.52 518.08)"><tspan class="cls-1"><tspan x="0" y="0">Хаврикс</tspan></tspan><tspan class="cls-12"><tspan x="0" y="9.6">Хеалив</tspan></tspan></text>
+  <text class="cls-9" transform="translate(547.79 521.05)"><tspan x="0" y="0">Совместима с другими </tspan><tspan x="24.77" y="9.6">вакцинами.</tspan></text>
+  <text class="cls-9" transform="translate(685.79 513.6)"><tspan x="0" y="0">Интервал между дозами </tspan><tspan x="-17.75" y="9.6">допускается 6-12 мес. В г.Минске </tspan><tspan x="-16.5" y="19.2">входит в календарь обязательной </tspan><tspan x="26.09" y="28.8">вакцинации</tspan></text>
+  <text class="cls-9" transform="translate(21.86 575.2)"><tspan x="0" y="0">*Приложение к плану вакцинации</tspan></text>
+  <line class="cls-6" x1="530.46" y1="363.26" x2="322.46" y2="363.26"/>
+</svg>
